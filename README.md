@@ -1,1 +1,1 @@
-# Print-Floyd-s-Triangle
+Print Floyd's Triangle
